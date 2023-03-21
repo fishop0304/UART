@@ -1,0 +1,1 @@
+xmverilog tb.v Uart_Top.v +define+SIM_TX +define+FSDB +access+r
